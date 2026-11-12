@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 
+👉 https://sksharma-ai.github.io/nidhi_bdy/
 
 ---
 
